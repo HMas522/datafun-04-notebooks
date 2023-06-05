@@ -12,7 +12,7 @@ Open VS Code and clone your `datafun-04-notebooks` repository to your machine.
 
 Open a terminal in VS Code. Use the menu View / Terminal. 
 In Windows, use PowerShell, in Mac, use bash.
-Verify you've added some essential packages to your default Python environment.
+Verify you've added some essential packages to your default Python environment. Done
 
 ```shell
 python -m pip install --upgrade pip ipykernel jupyterlab
